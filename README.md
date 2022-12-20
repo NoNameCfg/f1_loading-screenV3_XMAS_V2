@@ -1,14 +1,14 @@
-# f1 loading-screen v3
+# f1_loading-screenV3_XMAS_V2
 
 https://forum.cfx.re/t/f1-loading-screen-v3/4828328
 
 # Preview 
-https://www.youtube.com/watch?v=WNAh2Kwpt3E
+https://www.youtube.com/watch?v=5qfIAs1To8c
 
 # How to install:
- Move folder loading-screen-v3 for folder resources and open server.cfg
+ Move folder f1_loading-screenV3_XMAS_V2 for folder resources and open server.cfg
  
-ensure loading-screen-v3
+ensure f1_loading-screenV3_XMAS_V2
 
 
 # Credits 
